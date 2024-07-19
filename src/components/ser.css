@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 3px;
+
+}
+.box{
+    width: auto;
+    height: fit-content;
+    color: black;
+    
+}

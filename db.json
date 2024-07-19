@@ -1,0 +1,88 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/19937873/pexels-photo-19937873/free-photo-of-couple-in-white-shirts-sitting-on-white-hyundai-creta.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "name":"hyundai creta",
+
+            "price": 2000000,
+
+            "mileage":13,
+            "color":"white",
+            "seats":5,
+            "fuel":"deseal",
+            "gear":"manual",
+            "description":"this car has high performance in suvs"
+        },
+        {
+            "id":2,
+            "image":"https://images.pexels.com/photos/11143602/pexels-photo-11143602.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"fortuner",
+
+            "price": 2000000,
+
+            "mileage":10,
+            "color":"white",
+            "seats":8,
+            "fuel":"deseal",
+            "gear":"manual",
+            "description":"this car has high performance and stylish"
+        },
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/8706096/pexels-photo-8706096.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"mahindra thar",
+
+            "price": 1600000,
+
+            "mileage":15,
+            "color":"red",
+            "seats":5,
+            "fuel":"deseal",
+            "gear":"manual",
+            "description":"this car has high performance comfortable for adventures"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"ford",
+
+            "price": 2500000,
+
+            "mileage":12,
+            "color":"black",
+            "seats":5,
+            "fuel":"petrol",
+            "gear":"Automatic",
+            "description":"this car has high performance and mostly used in sports"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"ford",
+
+            "price": 2500000,
+
+            "mileage":12,
+            "color":"black",
+            "seats":5,
+            "fuel":"petrol",
+            "gear":"Automatic",
+            "description":"this car has high performance and mostly used in sports"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"ford",
+
+            "price": 2500000,
+
+            "mileage":12,
+            "color":"black",
+            "seats":5,
+            "fuel":"petrol",
+            "gear":"Automatic",
+            "description":"this car has high performance and mostly used in sports"
+        }
+    ]
+}
